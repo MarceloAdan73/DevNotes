@@ -15,7 +15,7 @@
 
 A modern, developer-focused note-taking application designed specifically for code snippets, programming tips, and technical resources. Features a beautiful masonry layout, real-time search, and seamless Supabase integration with PWA capabilities for offline access.
 
-![DevNotes Screenshot](public/notas.png)
+![DevNotes Screenshot](public/notas1.png)
 
 ---
 
